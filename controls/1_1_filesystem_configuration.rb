@@ -1,3 +1,4 @@
+# encoding: UTF-8
 #
 # Copyright 2017, Schuberg Philis B.V.
 #
